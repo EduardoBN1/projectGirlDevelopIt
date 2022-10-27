@@ -1,0 +1,30 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+p, fieldset{
+    margin-right:20cm;
+}
+h1,h2{
+    color: #106400;
+}
+strong, em{
+    color:#fea700;
+}
+ul>li>ul{
+    color: #fc625b;
+}
+label, legend{
+    color: #890b00;
+}
+a{
+    color:#0037ec;
+}
+td:first-child{
+    color: #0000ff;
+}
+td:last-child{
+    color: #7d0385;
+}
+footer>a:first-child{
+    color: #aed8ef;
+}
